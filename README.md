@@ -1,5 +1,5 @@
  Hi there 👋
- My name is Maxell Weaver. Here are a few things to know about me:
+ My name is Maxwell Weaver. Here are a few things to know about me:
 
 - 🔭 I’m currently working on acquiring my associates degree in computer programming and database at Spartanburg Community College. I am looking forward to my last two semesters as I am set to graduate in July 2024.
 - 🌱 I’m currently learning Java, SQL programming, as well as some information systems security and of course I am learning the ins and outs of GitHub.
