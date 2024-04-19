@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxWeaver-WebApp-Lab5", "MaxWeaver-WebApp-Lab5.csproj", "{DDC2B128-AFCF-471F-B3C5-686A3022A73C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC2B128-AFCF-471F-B3C5-686A3022A73C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC2B128-AFCF-471F-B3C5-686A3022A73C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC2B128-AFCF-471F-B3C5-686A3022A73C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC2B128-AFCF-471F-B3C5-686A3022A73C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93790CB4-C288-4B28-BAB6-2E95C97B3AC0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,33 @@
+﻿@{
+}
+@model IEnumerable<StudentProfile>
+<h2>@ViewData["Title"]</h2>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th>Student</th>
+      <th>ID</th>
+      <th>GPA</th>
+      <th>Email</th>
+      <th>Phone Number</th>
+    </tr>
+  </thead>
+  <tbody>
+    @if (Model is not null)
+    {
+      @foreach (StudentProfile prof in Model)
+      {
+        <tr>
+          <td>
+            @Html.DisplayFor(modelItem => prof.Name) 
+            @Html.DisplayFor(modelItem => prof.ID)
+            @Html.DisplayFor(modelItem => prof.GPA)
+            @Html.DisplayFor(modelItem => prof.StudentEmail) 
+            @Html.DisplayFor(modelItem => prof.PhoneNumber)
+          </td>
+        </tr>
+      }
+    }
+  </tbody>
+</table>
